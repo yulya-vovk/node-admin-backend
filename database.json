@@ -1,0 +1,18 @@
+{
+  "development": {
+    "driver": "pg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "admin_api",
+    "user": "admin",
+    "password": "adminpass"
+  },
+  "production": {
+    "driver": "pg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "admin_api",
+    "user": "admin",
+    "password": "adminpass"
+  }
+}

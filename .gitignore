@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+dist/
+.nyc_output/
+coverage/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs
+*.log
+
+# Docker
+.docker
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# OS
+Thumbs.db
